@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from utils.datahelper import load_iris
 
 
-class Perceptron:
+class Perceptron(object):
 
     """A simple perceptron classifier
         Parameters:

@@ -2,10 +2,12 @@
 # -*- coding: utf-8 -*-
 
 from neurons.perceptron import PerceptronExample
+from neurons.adaline import ADALineExample
 
 
 def main():
-    PerceptronExample()
+    # PerceptronExample()
+    # ADALineExample()
     print("Done")
 
 
